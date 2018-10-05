@@ -9,3 +9,18 @@ body {
 	text-align: center;
 	font-size: 24pt;
 }
+
+div.col {
+	border-width: 4px;
+border-style: outset;
+border-color: rgba(61,164,155,0.71);
+}
+
+.newsTitle {
+	border-width: 2px;
+border-style: outset;
+border-color: rgba(61,164,155,0.71);
+color: teal;
+text-align: center;
+font-size: 18;
+}
