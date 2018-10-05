@@ -1,10 +1,11 @@
-head {
+body {
 	color: black;
+	text-align: left;
+	font-size: 12;
+}
+
+.title {
+	color: teal;
 	text-align: center;
 	font-size: 24pt;
-}
-body {
-	text-align: center;
-	color: blue;
-	font-size: 36pt;
 }
